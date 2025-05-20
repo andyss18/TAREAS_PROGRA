@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  Sucursal.cpp
+  Generando código
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 148 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Vista_sucu.vcxproj -> C:\Users\itsan\OneDrive\Documents\Visual Studio 2022\Vista_sucu\x64\Release\Vista_sucu.exe
